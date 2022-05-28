@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -O3 -g -w -pthread -fopenmp -L/data/zqxu/fora/boost/lib -lboost_serialization  -rdynamic CMakeFiles/bread.dir/bread.cpp.o CMakeFiles/bread.dir/mylib.cpp.o CMakeFiles/bread.dir/config.cpp.o  -o bread -lpthread -lboost_serialization 

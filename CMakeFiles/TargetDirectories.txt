@@ -1,0 +1,3 @@
+/data/zqxu/BREAD/CMakeFiles/rebuild_cache.dir
+/data/zqxu/BREAD/CMakeFiles/bread.dir
+/data/zqxu/BREAD/CMakeFiles/edit_cache.dir
