@@ -1,3 +1,17 @@
+# BREAD
+
+This repository holds the code for our MDM paper: ``Efficiently Answering k-hop Reachability Queries in Large Dynamic Graphs for Fraud Feature Extraction`` [[Paper](https://vgate.cs.ucy.ac.cy/public/mdm2022/pdfs/517600a238.pdf)]. If you find it is useful for your work, please consider citing our paper.
+
+## Baseline:
+
+1. [**ARROW**](https://github.com/senguptaneha/temporalReachabilityC): ARROW: Approximating Reachability using Random walks Over Web scale graphs. ICDE'19
+
+## Environment:
+
+- CUDA 10.1
+- Boost 1.65.1
+- GCC 4.8
+
 ## ARROW
 
 ### Build
